@@ -17,7 +17,7 @@
 |2월 28일|포트폴리오 내용 구성 및 초안|[📂](https://github.com/sgr1118/-career_4/tree/main/0228%20%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%9E%A9_%ED%8F%AC%ED%8F%B4%EC%84%B8%EB%AF%B8%EB%82%98_1%EC%B0%A8)|
 |3월 7일|템플릿 및 톤앤배너 및 디자인 작업|[📂](https://github.com/sgr1118/-career_4/tree/main/0228%20%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%9E%A9%20%ED%8F%AC%ED%8F%B4%20%EC%9E%91%EC%84%B1%202%EC%B0%A8%EC%84%B8%EB%AF%B8%EB%82%98)|
 |3월 10일|1:1 피드백 및 리터칭||
-|3월 28일|주니어개발자 팁|[📂](https://github.com/sgr1118/-career_4/tree/main/0328%20%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8C%81)|
+|3월 28일|현직 개발자들과 커리어고민 해결하기|[📂](https://github.com/sgr1118/-career_4/tree/main/0328%20%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90_%ED%8C%81)|
 
 ---
 
